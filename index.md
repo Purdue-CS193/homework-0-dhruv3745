@@ -11,8 +11,10 @@
 - I get to meet new people
 - Taught by cool Tas
 
-``` Graded Section Ends```
-```
+``` 
+
+
+```Graded Section Ends```
 
 ## Welcome to GitHub Pages, this is Dhruv's Site
 
