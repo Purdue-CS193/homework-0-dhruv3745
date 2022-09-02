@@ -28,6 +28,10 @@ Dhruv has several hobbies, including but not limited to:
 [Link](url) and ![Image](src)
 ```
 
+
+``` Graded Section ```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
