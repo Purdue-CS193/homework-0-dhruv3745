@@ -4,22 +4,24 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hometown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dhruv is from the Bay Area in Califorina. To be more specific, he's from Fremont. 
 
 ```markdown
-Syntax highlighted code block
+Dhruv has several hobbies, including but not limited to:
 
-# Header 1
-## Header 2
-### Header 3
+# Art
+## Making Games
+### Reading
 
-- Bulleted
-- List
+- Having Fun
+- Music
 
-1. Numbered
-2. List
+1. Parkmont
+2. Stratford
+3. Moreau
+4. Purdue
 
 **Bold** and _Italic_ and `Code` text
 
