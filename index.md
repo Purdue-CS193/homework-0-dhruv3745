@@ -1,3 +1,17 @@
+
+
+
+``` Graded Section ```
+
+# Dhruv's First CS193 Homework
+
+- Its a Chill Class
+- I get to meet new people
+- Taught by cool Tas
+
+``` Graded Section Ends```
+
+
 ## Welcome to GitHub Pages, this is Dhruv's Site
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,9 +41,6 @@ Dhruv has several hobbies, including but not limited to:
 
 [Link](url) and ![Image](src)
 ```
-
-
-``` Graded Section ```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
