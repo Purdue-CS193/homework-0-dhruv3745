@@ -5,12 +5,14 @@
 
 # Dhruv's First CS193 Homework
 
+```markdown
+
 - Its a Chill Class
 - I get to meet new people
 - Taught by cool Tas
 
 ``` Graded Section Ends```
-
+```
 
 ## Welcome to GitHub Pages, this is Dhruv's Site
 
